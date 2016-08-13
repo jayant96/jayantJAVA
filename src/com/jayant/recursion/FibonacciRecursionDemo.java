@@ -3,7 +3,7 @@ package com.jayant.recursion;
 /**
  * Created by jayant on 1/19/2016.
  */
-public class FibonacciDemo {
+public class FibonacciRecursionDemo {
 
     public static void main(String[] args) {
         int i = 4;

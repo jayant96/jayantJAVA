@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jayantSelenium">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/production/jayantSelenium/selenium-java-2.48.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/jayantSelenium/selenium-server-standalone-2.49.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
