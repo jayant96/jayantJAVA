@@ -6,7 +6,7 @@ package com.jayant.string;
 public class ReverseString {
 
     public static void main(String[] args) {
-        String input = "reverse the string";
+        String input = "the";
         char[] tempArray = input.toCharArray();
         int left, right;
         right = tempArray.length - 1;
@@ -17,7 +17,7 @@ public class ReverseString {
         }
 
         for (char c : tempArray) {
-            System.out.println(c + " ");
+            System.out.print(c + " ");
         }
     }
 
